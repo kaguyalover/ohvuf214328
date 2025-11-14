@@ -285,7 +285,7 @@ app.get('/api/load-progress', (req, res) => {
 // === АДМИН ENDPOINTS ===
 
 // КОНФИГУРАЦИЯ АДМИНКИ (ТОЛЬКО ПАРОЛЬ)
-const ADMIN_PASSWORD = "cherryty_admin_2024"; // ЗАМЕНИТЕ на свой пароль!
+const ADMIN_PASSWORD = "chE79911001#"; // ЗАМЕНИТЕ на свой пароль!
 
 // Хранилище сессий админа
 const adminSessions = new Map();
