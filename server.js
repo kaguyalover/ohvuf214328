@@ -1,7 +1,7 @@
 // === ДОБАВЛЯЕМ В server.js ПОСЛЕ СУЩЕСТВУЮЩИХ ENDPOINTS ===
 
 // КОНФИГУРАЦИЯ АДМИНКИ
-const ADMIN_PASSWORD = "cherryty_admin_2024"; // ЗАМЕНИТЕ на свой пароль!
+const ADMIN_PASSWORD = "che79911001#"; // ЗАМЕНИТЕ на свой пароль!
 const ADMIN_USER_ID = "tg_455770486"; // ЗАМЕНИТЕ на ваш Telegram ID!
 
 // Хранилище сессий админа
