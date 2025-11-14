@@ -1,7 +1,7 @@
 {
   "name": "cherryty-rating-server",
-  "version": "3.0.0",
-  "description": "Rating server for Cherryty game - Railway optimized",
+  "version": "4.0.0",
+  "description": "Rating and progress server for Cherryty game - Railway optimized",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
