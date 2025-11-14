@@ -2,7 +2,7 @@
 
 // КОНФИГУРАЦИЯ АДМИНКИ
 const ADMIN_PASSWORD = "cherryty_admin_2024"; // ЗАМЕНИТЕ на свой пароль!
-const ADMIN_USER_ID = "tg_123456789"; // ЗАМЕНИТЕ на ваш Telegram ID!
+const ADMIN_USER_ID = "tg_455770486"; // ЗАМЕНИТЕ на ваш Telegram ID!
 
 // Хранилище сессий админа
 const adminSessions = new Map();
